@@ -33,7 +33,7 @@ h2 { font-size: 1.5em; border-bottom: 1px solid #eee; padding-bottom: 5px; }
 }
 
 /* --- SIDEBAR SPECIFICS --- */
-.profile-img {
+.profile-png {
     width: 100%;
     border-radius: 50%;
     margin-bottom: 15px;
@@ -46,7 +46,7 @@ h2 { font-size: 1.5em; border-bottom: 1px solid #eee; padding-bottom: 5px; }
 
 /* --- NAVIGATION MENU --- */
 nav {
-    background: #89CFF0;
+    background: #A2CFFE;
     padding: 10px 0;
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;
